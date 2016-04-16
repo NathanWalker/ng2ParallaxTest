@@ -1,0 +1,1 @@
+Test using external parallax plugin with nativescript and angular 2

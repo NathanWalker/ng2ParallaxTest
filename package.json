@@ -1,0 +1,21 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.MyApp",
+		"tns-android": {
+			"version": "1.7.1"
+		},
+		"tns-ios": {
+			"version": "1.7.0"
+		}
+	},
+	"dependencies": {
+		"nativescript-angular": "^0.0.40",
+		"nativescript-ng2-parallax": "^0.1.4",
+		"nativescript-parallax": "^1.0.2",
+		"tns-core-modules": "^2.0.0-angular-4"
+	},
+	"devDependencies": {
+		"nativescript-dev-typescript": "^0.3.1",
+		"typescript": "^1.8.9"
+	}
+}
