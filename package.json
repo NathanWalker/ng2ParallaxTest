@@ -9,7 +9,7 @@
 		}
 	},
 	"dependencies": {
-		"nativescript-angular": "^0.0.40",
+		"nativescript-angular": "^0.0.41",
 		"nativescript-ng2-parallax": "^0.1.4",
 		"nativescript-parallax": "^1.0.2",
 		"tns-core-modules": "^2.0.0-angular-4"
